@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="emart" size="400.000000 186.770432" />
+    <ImageTarget name="dessert2" size="300.000000 307.394379" />
+    <ImageTarget name="dessert1" size="300.000000 300.000000" />
+    <ImageTarget name="natuurpop" size="300.000000 296.153839" />
+    <ImageTarget name="lotteria" size="300.000000 312.121216" />
+    <ImageTarget name="lloyd" size="300.000000 280.384613" />
+  </Tracking>
+</QCARConfig>

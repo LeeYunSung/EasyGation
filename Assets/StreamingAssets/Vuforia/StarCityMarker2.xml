@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="seiko" size="300.000000 72.768257" />
+    <ImageTarget name="olive2" size="300.000000 47.630859" />
+    <ImageTarget name="lotte2" size="300.000000 49.386501" />
+    <ImageTarget name="nii2" size="300.000000 277.894745" />
+    <ImageTarget name="dskin" size="300.000000 44.855305" />
+    <ImageTarget name="buru" size="300.000000 86.183311" />
+    <ImageTarget name="under3" size="300.000000 46.054054" />
+    <ImageTarget name="hunt" size="300.000000 151.159195" />
+    <ImageTarget name="eblin4" size="300.000000 80.986938" />
+    <ImageTarget name="under2" size="300.000000 64.087471" />
+    <ImageTarget name="neworld3" size="300.000000 105.869324" />
+    <ImageTarget name="inni2" size="300.000000 305.258301" />
+    <ImageTarget name="elevator2" size="300.000000 412.230225" />
+    <ImageTarget name="eblin3" size="300.000000 95.931648" />
+    <ImageTarget name="neworld2" size="300.000000 120.000000" />
+    <ImageTarget name="elevator" size="300.000000 300.000000" />
+    <ImageTarget name="wonder" size="300.000000 470.250000" />
+    <ImageTarget name="under" size="300.000000 151.058823" />
+    <ImageTarget name="star" size="300.000000 300.000000" />
+    <ImageTarget name="olive" size="300.000000 300.000000" />
+    <ImageTarget name="judy" size="300.000000 300.000000" />
+    <ImageTarget name="folder2" size="300.000000 203.296707" />
+    <ImageTarget name="ediya" size="300.000000 300.000000" />
+    <ImageTarget name="burger" size="300.000000 300.000000" />
+    <ImageTarget name="bene" size="300.000000 101.639343" />
+    <ImageTarget name="spao" size="300.000000 300.000000" />
+    <ImageTarget name="shinhan" size="300.000000 189.069763" />
+    <ImageTarget name="nii" size="300.000000 187.709503" />
+    <ImageTarget name="neworld" size="300.000000 96.330276" />
+    <ImageTarget name="natuur" size="300.000000 296.153839" />
+    <ImageTarget name="lotte" size="300.000000 173.035721" />
+    <ImageTarget name="inni" size="300.000000 242.076920" />
+    <ImageTarget name="folder" size="300.000000 300.000000" />
+    <ImageTarget name="fila" size="300.000000 300.000000" />
+    <ImageTarget name="eblin2" size="300.000000 125.000000" />
+    <ImageTarget name="eblin" size="300.000000 105.419891" />
+    <ImageTarget name="design" size="300.000000 298.255829" />
+    <ImageTarget name="artbox" size="300.000000 298.522156" />
+    <ImageTarget name="abc" size="300.000000 300.000000" />
+  </Tracking>
+</QCARConfig>
